@@ -1,0 +1,22 @@
+glossary = {
+    'string': 'A collection of characters.',
+    'comment': 'A note in a program which does not effect the code.',
+    'list': 'A collection of items in a particular order.',
+    'loop': 'an iterable object, perform the same action for each entry',
+    'dictionary': "A collection of key-value pairs.",
+    }
+
+word = 'string'
+print("\n" + word.title() + ": " + glossary[word])
+
+word = 'comment'
+print("\n" + word.title() + ": " + glossary[word])
+
+word = 'list'
+print("\n" + word.title() + ": " + glossary[word])
+
+word = 'loop'
+print("\n" + word.title() + ": " + glossary[word])
+
+word = 'dictionary'
+print("\n" + word.title() + ": " + glossary[word])
