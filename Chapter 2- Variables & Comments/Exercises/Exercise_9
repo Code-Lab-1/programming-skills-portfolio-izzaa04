@@ -1,0 +1,12 @@
+name= str(input("Enter your name: "))
+maths= int(input("Enter your marks in maths: "))
+physics= int(input("Enter your marks in physics: "))
+chemistry= int(input("Enter your marks in chemistry: "))
+biology= int(input("Enter your marks in biology: "))
+english= int(input("Enter your marks in English: "))
+marks_obtained = maths+physics+chemistry+biology+english
+total_marks = 500
+average = marks_obtained/5
+percentage = (marks_obtained/total_marks)*100
+print("Average= ",average)
+print("Percentage= ",percentage)
