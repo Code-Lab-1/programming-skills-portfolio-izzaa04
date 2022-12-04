@@ -1,0 +1,4 @@
+name=["Izza", "Aysha", "Hamda", "Wafa"]
+def names():
+  print (name)
+names()

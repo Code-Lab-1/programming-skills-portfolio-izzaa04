@@ -1,0 +1,4 @@
+name="Izza"
+university="Bath Spa University"
+course= " Creative Computing"
+print("My name is " +name+". "+"I am currently studying"+course+" in "+university+".")

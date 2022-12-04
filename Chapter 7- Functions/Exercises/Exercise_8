@@ -1,0 +1,3 @@
+lambda_ = lambda argument1, argument2: argument1 + argument2;  
+print("Value of the function is : ", lambda_( 10, 30 ))  
+print("Value of the function is : ", lambd_( 70, 80 ))  

@@ -1,0 +1,5 @@
+text= "I study in Bath Spa University."
+print (text)
+
+text= "I live in UAE"
+print (text)

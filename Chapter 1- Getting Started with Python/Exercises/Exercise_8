@@ -1,0 +1,7 @@
+money=100
+r=10%money
+print("10% of $100 is")
+print(r)
+y=money+r*7
+print("Money after 7 years")
+print(y)

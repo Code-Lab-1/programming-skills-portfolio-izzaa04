@@ -1,0 +1,5 @@
+count = 0
+while x > 0:
+    x = x // 2 
+    count += 1
+print("The approximate log2 is", count)

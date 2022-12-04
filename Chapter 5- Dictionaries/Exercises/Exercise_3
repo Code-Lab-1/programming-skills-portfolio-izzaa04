@@ -1,0 +1,15 @@
+glossary = {
+     'string': 'A collection of characters.',
+    'comment': 'A note in a program which does not effect the code.',
+    'list': 'A collection of items in a particular order.',
+    'loop': 'an iterable object, perform the same action for each entry',
+    'dictionary': "A collection of key-value pairs.",
+    'key': 'The first item in a key-value pair in a dictionary.',
+    'value': 'An item associated with a key in a dictionary.',
+    'conditional test': 'A comparison between two values.',
+    'float': 'A numerical value with a decimal component.',
+    'boolean expression': 'An expression that evaluates to True or False.',
+    }
+
+for word, definition in glossary.items():
+    print("\n" + word.title() + ": " + definition)

@@ -1,0 +1,6 @@
+def display_message():
+    """Display a message about what I'm learning."""
+    msg = "I've learnt how to store messages using functions."
+    print(msg)
+
+display_message()

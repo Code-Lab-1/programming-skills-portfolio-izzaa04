@@ -1,0 +1,5 @@
+name = 'Izza'
+if name == 'Roha':
+  print('Hi, Roha.')
+else:
+  print('You are not Roha')

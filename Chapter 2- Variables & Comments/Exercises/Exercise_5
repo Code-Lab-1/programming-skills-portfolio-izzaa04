@@ -1,0 +1,8 @@
+her_money=50
+one_lightstick=6
+she_can_buy=her_money/one_lightstick
+she_buys=f"She can buy {she_can_buy} lightsticks."
+print(she_buys)
+she_has_left=her_money%one_lightstick
+money_left=f"She will have {she_has_left} pounds left."
+print(money_left)

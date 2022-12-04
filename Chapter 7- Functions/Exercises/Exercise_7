@@ -1,0 +1,6 @@
+def func():
+	x = 90
+	print("Value inside function:",x)
+x = 34
+func()
+print("Value outside function:",x)

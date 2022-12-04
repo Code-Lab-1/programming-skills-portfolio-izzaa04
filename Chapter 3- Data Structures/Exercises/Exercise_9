@@ -1,0 +1,8 @@
+names=['Wafa', 'Izza', 'Aysha', 'Alina', 'Alishba', 'Julisha', 'Trisha', 'Aqsa', 'Sharvari', 'Angela']
+print(names)
+print(names[7])
+print(names[-1])
+print(names[0],names[9])
+print(names[3:7])
+print(names[2:])
+print(names[:5])

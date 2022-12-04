@@ -1,0 +1,7 @@
+n = 12
+cur_sum = 8
+i = 6
+while  i <= n :
+    cur_sum = cur_sum + i
+    i = i + 1
+print("The sum of the numbers from 1 to", n, "is ", cur_sum)
