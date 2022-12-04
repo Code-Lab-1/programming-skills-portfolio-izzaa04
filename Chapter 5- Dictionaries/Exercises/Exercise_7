@@ -1,5 +1,6 @@
 student={"Name":"Izza","Age":"18","Gender":"Female","Nationality":"Pakistani","Class":"Year 1", "Location":"UAE"}
-print(student.values())student["Age"]=20
+print(student.values())
+student["Age"]=20
 print(student["Age"])
 print(student)
 student.update({"BG":"B"})

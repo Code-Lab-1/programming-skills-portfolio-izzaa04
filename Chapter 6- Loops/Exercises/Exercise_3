@@ -1,2 +1,3 @@
-while True:
-    print("I'm Izza!")
+a=1
+while (a<3):
+  print("Infinite Loop")
