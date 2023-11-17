@@ -1,0 +1,3 @@
+student={"Name":"Izza","Age":"18","Gender":"Female","Nationality":"Pakistani","Class":"Year 1", "Location":"UAE"}
+print(student["Name"])
+print(student.keys())

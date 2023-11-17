@@ -1,0 +1,8 @@
+def describe_city(city, country='Pakistan'):
+    """Describe a city."""
+    msg = city.title() + " is in " + country.title() + "."
+    print(msg)
+
+describe_city('Islamabad')
+describe_city('Dubai', 'UAE')
+describe_city('Lahore')

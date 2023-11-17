@@ -1,0 +1,5 @@
+savings=100
+print(savings)
+growth_multiplier=1.1
+result=170
+print(result)

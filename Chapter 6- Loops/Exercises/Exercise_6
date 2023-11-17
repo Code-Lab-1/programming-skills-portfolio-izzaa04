@@ -1,0 +1,3 @@
+directions = ['North','East','West','South']
+for pole in directions:
+    print(pole)

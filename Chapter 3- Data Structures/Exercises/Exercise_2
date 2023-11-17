@@ -1,0 +1,13 @@
+names=['Roha','Fatima','Zahra','Batul','Zainab','Sarah']
+msg0= f"Hi, {names[0].title()}! How are you?"
+print(msg0)
+msg1= f"Hi, {names[1].title()}! How are you?"
+print(msg1)
+msg2= f"Hi, {names[2].title()}! How are you?"
+print(msg2)
+msg3= f"Hi, {names[3].title()}! How are you?"
+print(msg3)
+msg4= f"Hi, {names[4].title()}! How are you?"
+print(msg4)
+msg5= f"Hi, {names[5].title()}! How are you?"
+print(msg5)

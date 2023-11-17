@@ -1,0 +1,3 @@
+longString = "My favorite flower is Tulip"
+for word in longString.split() :
+    print(word)

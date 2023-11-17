@@ -1,0 +1,93 @@
+invitees=['Roha','Alina','Aysha']
+
+invitation0=f"Dear {invitees[0].title()},"
+print(invitation0)
+print("I would like to invite you to a special dinner on 16th November 2022. I would be delighted if you can make it to this event. With love.")
+
+invitation1=f"Dear {invitees[1].title()},"
+print(invitation1)
+print("I would like to invite you to a special dinner on 16th November 2022. I would be delighted if you can make it to this event. With love.")
+
+invitation2=f"Dear {invitees[2].title()},"
+print(invitation2)
+print("I would like to invite you to a special dinner on 16th November 2022. I would be delighted if you can make it to this event. With love.")
+
+invitees=['Roha','Alina','Aysha']
+
+invitation0=f"Dear {invitees[0].title()},"
+print(invitation0)
+print("I would like to invite you to a special dinner on 16th November 2022. I would be delighted if you can make it to this event. With love.")
+
+invitation1=f"Dear {invitees[1].title()},"
+print(invitation1)
+print("I would like to invite you to a special dinner on 16th November 2022. I would be delighted if you can make it to this event. With love.")
+
+invitation2=f"Dear {invitees[2].title()},"
+print(invitation2)
+print("I would like to invite you to a special dinner on 16th November 2022. I would be delighted if you can make it to this event. With love.")
+
+message=f"Oh dear! {invitees[2].title()} can't make it!"
+print(message)
+del(invitees[2])
+
+invitees.insert(2,"Izza")
+invitation0=f"Dear {invitees[0].title()},"
+print(invitation0)
+print("I would like to invite you to a special dinner on 16th November 2022. I would be delighted if you can make it to this event. With love.")
+
+invitation1=f"Dear {invitees[1].title()},"
+print(invitation1)
+print("I would like to invite you to a special dinner on 16th November 2022. I would be delighted if you can make it to this event. With love.")
+
+invitation2=f"Dear {invitees[2].title()},"
+print(invitation2)
+print("I would like to invite you to a special dinner on 16th November 2022. I would be delighted if you can make it to this event. With love.")
+
+print("\nWe got a bigger table!")
+invitees.insert(0, 'Wafa')
+invitees.insert(2, 'Rameesha')
+invitees.append('Haya')
+
+name = invitees[0].title()
+print(name + ", please come to dinner.")
+
+name = invitees[1].title()
+print(name + ", please come to dinner.")
+
+name = invitees[2].title()
+print(name + ", please come to dinner.")
+
+name = invitees[3].title()
+print(name + ", please come to dinner.")
+
+name = invitees[4].title()
+print(name + ", please come to dinner.")
+
+name = invitees[5].title()
+print(name + ", please come to dinner.")
+
+
+print("\nSorry, we can only invite two people to dinner.")
+
+name = invitees.pop()
+print("Sorry, " + name.title() + " there's no room at the table.")
+
+name = invitees.pop()
+print("Sorry, " + name.title() + " there's no room at the table.")
+
+name = invitees.pop()
+print("Sorry, " + name.title() + " there's no room at the table.")
+
+name = invitees.pop()
+print("Sorry, " + name.title() + " there's no room at the table.")
+
+name = invitees[0].title()
+print(name + ", please come to dinner.")
+
+name = invitees[1].title()
+print(name + ", please come to dinner.")
+
+del(invitees[0])
+del(invitees[0])
+
+print(invitees)

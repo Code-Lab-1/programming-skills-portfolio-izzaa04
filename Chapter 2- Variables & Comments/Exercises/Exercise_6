@@ -1,0 +1,12 @@
+name ="Izza Fatima"
+age = 18
+contact_number ="05066778899"
+email = "izza2004fatima@gmail.com"
+department = "Creative Computing"
+level = "Bechelors"
+print(name)
+print(age)
+print(contact_number)
+print(email)
+print(department)
+print(level)

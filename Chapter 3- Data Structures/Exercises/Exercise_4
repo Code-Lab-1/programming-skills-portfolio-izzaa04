@@ -1,0 +1,10 @@
+invitees=['Roha','Alina','Aysha']
+invitation0=f"Dear {invitees[0].title()},"
+print(invitation0)
+print("I would like to invite you to a special dinner on 16th November 2022. I would be delighted if you can make it to this event. With love.")
+invitation1=f"Dear {invitees[1].title()},"
+print(invitation1)
+print("I would like to invite you to a special dinner on 16th November 2022. I would be delighted if you can make it to this event. With love.")
+invitation2=f"Dear {invitees[2].title()},"
+print(invitation2)
+print("I would like to invite you to a special dinner on 16th November 2022. I would be delighted if you can make it to this event. With love.")
